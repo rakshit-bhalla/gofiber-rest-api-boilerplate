@@ -1,5 +1,3 @@
-# gofiber-rest-api-boilerplate
-
 <p align="center">
   <a href="https://docs.gofiber.io/" target="blank"><img src="https://gofiber.io/assets/images/embed.png" width="320" alt="Gofiber Logo" /></a>
 </p>
